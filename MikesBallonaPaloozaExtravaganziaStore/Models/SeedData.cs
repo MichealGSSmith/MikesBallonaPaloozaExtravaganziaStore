@@ -123,6 +123,8 @@ namespace MikesBallonaPaloozaExtravaganziaStore.Models
                     }
 
                  );
+
+                context.SaveChanges();
             }
         }
     }

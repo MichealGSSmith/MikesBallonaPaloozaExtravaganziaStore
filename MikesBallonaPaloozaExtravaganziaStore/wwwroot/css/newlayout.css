@@ -1,0 +1,41 @@
+﻿h1{
+   background-color:lightblue;
+   text-align:center;
+   font-family:'Bauhaus 93';
+   font-weight:600;
+}
+
+h2 {
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Bauhaus 93';
+}
+
+p {
+    background-color: lightpink;
+    text-align: center;
+    font-family: 'Bauhaus 93';
+    font-size: 2em;
+    padding: 3px;
+}
+
+nav {
+    font-family: 'Bauhaus 93';
+    color:lightpink;
+
+}
+
+footer {
+    background-color: lightpink;
+    text-align: center;
+    font-family: 'Bauhaus 93';
+    
+}
+
+footer div {
+    color:black;
+}
+
+.private{
+    font-size:200px;
+}

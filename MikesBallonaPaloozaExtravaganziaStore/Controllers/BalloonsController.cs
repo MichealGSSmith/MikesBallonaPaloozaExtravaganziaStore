@@ -20,9 +20,15 @@ namespace MikesBallonaPaloozaExtravaganziaStore.Controllers
         }
 
         // GET: Balloons
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Balloons.ToListAsync());
+            var Balloons = from m in _context.Balloons
+                         select m;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                Balloons = Balloons.Where(s => s.Title.Contains(searchString));
+            }
+            return View(await Balloons.ToListAsync());
         }
 
         // GET: Balloons/Details/5

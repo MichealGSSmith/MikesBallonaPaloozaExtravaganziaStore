@@ -34,3 +34,15 @@ it says the build was suyccessful but has that error after... asking andrew...
 1645- Smoke breakk seeding is taking for every but we good! 4 more to go , thanks for asking for 10!!!!
 1945- we are finding some sweet jams to listen to!
 2000- we got some beats now lets finish seeding the data
+2013- Finished Seeding the Data no on to the seed initializer
+2032- well we were almost there but i am having an issue inmy Ihostbuilder, down in the UseStartup<StartUp> the startup is not found... on the hunt
+ 
+2021-10-15
+
+1705- in php but im going to work on this. I am going to check what i have done, and keep going.
+1710- i have checked my folder, and i just finished seeding the database, now im moving onto the controller methods and views.
+1811- we have been working on the search functionality. I have gotten to the point where im going to add some UI so the client can just search instead of using URL.
+2045- back from class ready to keep going, i think we are getting close to setting up the css and finishing touches!
+2113- i just added a css file in my css folder and linked it in the _layout.cshtml file, i hope now i can write some css and it show up.
+2233- I spent way to much time doing css, and getting the second page made, but we are up and rolling got some new fonts and added an about us page.
+2234- back to the actual steps of finishing this assignment!
