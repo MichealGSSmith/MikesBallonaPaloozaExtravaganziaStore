@@ -48,3 +48,5 @@ it says the build was suyccessful but has that error after... asking andrew...
 2234- back to the actual steps of finishing this assignment!
 2236- we have finished making the app!!! i have adde all my regular expressions and now it is just time to upload all to git just need to do a little bit more stuff!
 2237 Almost for got a picture need to add a picture!
+2246- ok so i am putting down my finale commit hopefully i can get it to work with azure, but thats my next step
+i hope ill be able to get that working but other than that we are set!!!!
