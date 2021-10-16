@@ -46,3 +46,5 @@ it says the build was suyccessful but has that error after... asking andrew...
 2113- i just added a css file in my css folder and linked it in the _layout.cshtml file, i hope now i can write some css and it show up.
 2233- I spent way to much time doing css, and getting the second page made, but we are up and rolling got some new fonts and added an about us page.
 2234- back to the actual steps of finishing this assignment!
+2236- we have finished making the app!!! i have adde all my regular expressions and now it is just time to upload all to git just need to do a little bit more stuff!
+2237 Almost for got a picture need to add a picture!

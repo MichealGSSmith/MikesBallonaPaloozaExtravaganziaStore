@@ -39,3 +39,7 @@ footer div {
 .private{
     font-size:200px;
 }
+
+div img {
+    width:100%;
+}

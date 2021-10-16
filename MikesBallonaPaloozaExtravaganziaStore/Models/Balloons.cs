@@ -10,12 +10,25 @@ namespace MikesBallonaPaloozaExtravaganziaStore.Models
     public class Balloons
     {
         public int Id { get; set; }
+
+        [RegularExpression(@"^[A-Z]+[a-zA-Z\s]*$")]
+        [StringLength(60, MinimumLength =3)]
+        [Required]
         public string Title { get; set; }
 
-        
+        [RegularExpression(@"^[A-Z]+[a-zA-Z\s]*$")]
+        [StringLength(60, MinimumLength = 3)]
+        [Required]
         public string Name { get; set; }
 
+        [RegularExpression(@"^[A-Z]+[a-zA-Z\s]*$")]
+        [StringLength(60, MinimumLength = 3)]
+        [Required]
         public string Colour { get; set; }
+
+        [RegularExpression(@"^[A-Z]+[a-zA-Z\s]*$")]
+        [StringLength(60, MinimumLength = 3)]
+        [Required]
         public string Event { get; set; }
 
         [Column(TypeName = "decimal(18, 2")]
